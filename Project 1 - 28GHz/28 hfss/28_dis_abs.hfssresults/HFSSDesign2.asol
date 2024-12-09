@@ -1,0 +1,348 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002019, month=000000000011, day=000000000002, hour=000000000021, min=000000000021, sec=000000000011)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000010327, lin=000000000326, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock132'
+	SolutionName='AdaptivePass'
+	SolutionID=23
+	V=2917
+	$begin 'States'
+		F(VID=926, Ver=2917)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(28000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=926, Ver=2917, File='DV926_SOL23_M1_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=926, Ver=2917, File='DV926_SOL23_M2_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=926, Ver=2917, File='DV926_SOL23_M3_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			M(VID=926, Ver=2917, File='DV926_SOL23_M4_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			M(VID=926, Ver=2917, File='DV926_SOL23_M5_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			M(VID=926, Ver=2917, File='DV926_SOL23_M6_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=7
+			M(VID=926, Ver=2917, File='DV926_SOL23_M7_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=8
+			M(VID=926, Ver=2917, File='DV926_SOL23_M8_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=9
+			M(VID=926, Ver=2917, File='DV926_SOL23_M9_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=10
+			M(VID=926, Ver=2917, File='DV926_SOL23_M10_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=11
+			M(VID=926, Ver=2917, File='DV926_SOL23_M11_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=12
+			M(VID=926, Ver=2917, File='DV926_SOL23_M12_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=13
+			M(VID=926, Ver=2917, File='DV926_SOL23_M13_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=14
+			M(VID=926, Ver=2917, File='DV926_SOL23_M14_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=15
+			M(VID=926, Ver=2917, File='DV926_SOL23_M15_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=16
+			M(VID=926, Ver=2917, File='DV926_SOL23_M16_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=17
+			M(VID=926, Ver=2917, File='DV926_SOL23_M17_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=18
+			M(VID=926, Ver=2917, File='DV926_SOL23_M18_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=19
+			M(VID=926, Ver=2917, File='DV926_SOL23_M19_V2917.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'A'
+		$begin 'SubData'
+			ID=0
+			A(VID=926, Ver=2917, File='DV926_SOL23_A0_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=1
+			A(VID=926, Ver=2917, File='DV926_SOL23_A1_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			A(VID=926, Ver=2917, File='DV926_SOL23_A2_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			A(VID=926, Ver=2917, File='DV926_SOL23_A3_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			A(VID=926, Ver=2917, File='DV926_SOL23_A4_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			A(VID=926, Ver=2917, File='DV926_SOL23_A5_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			A(VID=926, Ver=2917, File='DV926_SOL23_A6_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=7
+			A(VID=926, Ver=2917, File='DV926_SOL23_A7_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=8
+			A(VID=926, Ver=2917, File='DV926_SOL23_A8_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=9
+			A(VID=926, Ver=2917, File='DV926_SOL23_A9_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=10
+			A(VID=926, Ver=2917, File='DV926_SOL23_A10_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=11
+			A(VID=926, Ver=2917, File='DV926_SOL23_A11_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=12
+			A(VID=926, Ver=2917, File='DV926_SOL23_A12_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=13
+			A(VID=926, Ver=2917, File='DV926_SOL23_A13_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=14
+			A(VID=926, Ver=2917, File='DV926_SOL23_A14_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=15
+			A(VID=926, Ver=2917, File='DV926_SOL23_A15_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=16
+			A(VID=926, Ver=2917, File='DV926_SOL23_A16_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=17
+			A(VID=926, Ver=2917, File='DV926_SOL23_A17_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=18
+			A(VID=926, Ver=2917, File='DV926_SOL23_A18_V2917.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=19
+			A(VID=926, Ver=2917, File='DV926_SOL23_A19_V2917.sd')
+		$end 'SubData'
+	$end 'A'
+$end 'SolutionBlock132'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=22, Instance=\'\', Solution=-3, VersionID=2917)'='SolutionBlock136'
+	'SolutionKey(SimSetup=22, Instance=\'SetupDefinition\', Solution=-1, VersionID=2917)'='SolutionBlock135'
+	'SolutionKey(SimSetup=22, Instance=\'SolutionDefinition\', Solution=23, VersionID=2917)'='SolutionBlock132'
+	'SolutionKey(SimSetup=22, Instance=\'SolutionDefinition\', Solution=24, VersionID=2917)'='SolutionBlock133'
+	'SolutionKey(SimSetup=22, Instance=\'SolutionDefinition\', Solution=29, VersionID=2988)'='SolutionBlock137'
+$end 'BlockMapName'
+$begin 'SolutionBlock133'
+	SolutionName='LastAdaptive'
+	SolutionID=24
+	V=2917
+	$begin 'States'
+		F(VID=926, Ver=2917)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(28000000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=926, Ver=2917, File='DV926_SOL24_M0_V2917.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(960, 28000000000)
+		$begin 'DataMap'
+			VID=926
+			Ver=2917
+			F(DblID=960, Dir='DV926_S24_V2917_F960/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock133'
+$begin 'SolutionBlock137'
+	SolutionName='Sweep'
+	SolutionID=29
+	V=2988
+	$begin 'States'
+		F(VID=926, Ver=2988)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(27500000000, 27510000000, 27520000000, 27530000000, 27540000000, 27550000000, 27560000000, 27570000000, 27580000000, 27590000000, 27600000000, 27610000000, 27620000000, 27630000000, 27640000000, 27650000000, 27660000000, 27670000000, 27680000000, 27690000000, 27700000000, 27710000000, 27720000000, 27730000000, 27740000000, 27750000000, 27760000000, 27770000000, 27780000000, 27790000000, 27800000000, 27810000000, 27820000000, 27830000000, 27840000000, 27850000000, 27860000000, 27870000000, 27880000000, 27890000000, 27900000000, 27910000000, 27920000000, 27930000000, 27940000000, 27950000000, 27960000000, 27970000000, 27980000000, 27990000000, 28000000000, 28010000000, 28020000000, 28030000000, 28040000000, 28050000000, 28060000000, 28070000000, 28080000000, 28090000000, 28100000000, 28110000000, 28120000000, 28130000000, 28140000000, 28150000000, 28160000000, 28170000000, 28180000000, 28190000000, 28200000000, 28210000000, 28220000000, 28230000000, 28240000000, 28250000000, 28260000000, 28270000000, 28280000000, 28290000000, 28300000000, 28310000000, 28320000000, 28330000000, 28340000000, 28350000000, 28360000000, 28370000000, 28380000000, 28390000000, 28400000000, 28410000000, 28420000000, 28430000000, 28440000000, 28450000000, 28460000000, 28470000000, 28480000000, 28490000000, 28500000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=926, Ver=2988, File='DV926_SOL29_M0_V2988.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock137'
+$begin 'SolutionBlock135'
+	SimSetupID=22
+	SimSetupName='Setup1'
+	VersionID=2917
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	$begin 'CurrMeshes'
+		M(VID=926, Ver=2917, Dir='DV926_S22_V2917.cmesh/')
+	$end 'CurrMeshes'
+	$begin 'RadFieldSurfMeshes'
+		SM(VID=926, Ver=2917, Dir='DV926_S22_V2917.sfmesh/')
+	$end 'RadFieldSurfMeshes'
+	$begin 'WaveAdapt'
+		WA(VID=926, Ver=2917, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=926, Ver=2917, P=19)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		P(VID=926, Ver=2917, File='DV926_S22_V2917.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=926, Ver=2917, Dir='DV926_S22_MI0_V2917.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock135'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign2'
+	VersionID=2917
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=2996
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=926)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=926, Ver=2917, Dir='DV926_V2917.imesh/')
+	$end 'InitialMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=926, Ver=2917, Dir='DV926_MI0_V2917.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock1'
+$begin 'SolutionBlock136'
+	ConvSetupName='DrivenDeltaSConvNOV'
+	IsConverged=true
+	MaxPasses='20'
+	MinPasses='1'
+	ConvTarget='0.02'
+	ConvTargetConsecPasses='1'
+	ConvCurrentConsecPasses='1'
+	c(numtets=1311, passno=1)
+	c(magdeltas=0.1124942458069757, numtets=1706, passno=2)
+	c(magdeltas=0.08465212202839657, numtets=2218, passno=3)
+	c(magdeltas=0.127703910081521, numtets=2888, passno=4)
+	c(magdeltas=0.1824918593139376, numtets=3761, passno=5)
+	c(magdeltas=0.1295526680418674, numtets=4897, passno=6)
+	c(magdeltas=0.1340920292216224, numtets=5604, passno=7)
+	c(magdeltas=0.08489892914462179, numtets=6032, passno=8)
+	c(magdeltas=0.1273866722089228, numtets=7853, passno=9)
+	c(magdeltas=0.09930993170054614, numtets=9244, passno=10)
+	c(magdeltas=0.04172344516966663, numtets=9819, passno=11)
+	c(magdeltas=0.03431150714631348, numtets=10503, passno=12)
+	c(magdeltas=0.02815122307111099, numtets=11373, passno=13)
+	c(magdeltas=0.03223499296593024, numtets=12493, passno=14)
+	c(magdeltas=0.03878050546295178, numtets=16249, passno=15)
+	c(magdeltas=0.02537670480825492, numtets=18000, passno=16)
+	c(magdeltas=0.02520584237138646, numtets=20975, passno=17)
+	c(magdeltas=0.02046983970476257, numtets=24327, passno=18)
+	c(magdeltas=0.01627986228988031, numtets=25790, passno=19)
+$end 'SolutionBlock136'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock136(pos=9033, lin=298, lvl=0)
+		SolutionBlock132(pos=370, lin=1, lvl=0)
+		BlockMapName(pos=4740, lin=180, lvl=0)
+		SolutionBlock133(pos=5335, lin=188, lvl=0)
+		SolutionBlock137(pos=6008, lin=221, lvl=0)
+		SolutionBlock135(pos=7808, lin=246, lvl=0)
+		SolutionBlock1(pos=8527, lin=275, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=10327, lin=326, lvl=0)
+	$end '$index$'
+$end '$index$'
